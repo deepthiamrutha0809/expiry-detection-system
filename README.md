@@ -78,5 +78,5 @@ expiry-detection-system/
 
 ## Author
 
-Deepthi Amrutha 
+Deepthi Amrutha B.V
 
